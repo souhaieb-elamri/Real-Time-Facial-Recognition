@@ -1,0 +1,9 @@
+opencv-python
+insightface
+onnxruntime
+torch
+torchvision
+Pillow
+numpy
+mediapipe
+pyodbc
